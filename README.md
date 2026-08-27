@@ -114,5 +114,5 @@ pip install pyserial matplotlib
 - [Adreet Sarkar](https://github.com/Golden-Adreet)  
 - Alok Kumar Pandey  
 - Aman Kumar Patel  
-- Aman Upadhyay (https://github.com/amanupadhayay-3009)  
+- [Aman Upadhyay](https://github.com/amanupadhayay-3009)  
 - [Anshuman Pandey](https://github.com/anshuman1947)
